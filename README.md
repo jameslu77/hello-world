@@ -1,2 +1,2 @@
 # hello-world
-hellow github
+ok, you can use hithub now!
